@@ -6,3 +6,7 @@ Subset Sum
 how to find this dp problem two ways 
 1.choice
 2.Optimize
+dp=recursion+storage
+dp:-
+1.memorization
+2.Tabulation
